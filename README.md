@@ -49,6 +49,15 @@ The project was developed as a practical backend/web development project to work
 \- Interactive map visualization
 
 
+## Screenshots
+
+### Login Page
+
+![Login Page](screenshots/login.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
 
 \## Technologies Used
 
