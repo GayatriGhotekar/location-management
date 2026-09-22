@@ -1,0 +1,31 @@
+# Local database configuration
+/config/db.php
+
+# Local Google Maps API key
+/config/google_maps.php
+
+# Environment files
+.env
+.env.*
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# PHP local/server files
+php_errors.log
+
+# Local development files
+/uploads/
